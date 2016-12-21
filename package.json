@@ -1,0 +1,19 @@
+{
+  "name": "cloverfileparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakesiebers/CloverFileParser.git"
+  },
+  "author": "jakesiebers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakesiebers/CloverFileParser/issues"
+  },
+  "homepage": "https://github.com/jakesiebers/CloverFileParser#readme"
+}
